@@ -1,24 +1,7 @@
 
 
 
-def primeiro(func):
 
-    def segundo():
-        print('texto um')
-        func()
-        print('texto dois')
-        
-    return segundo  
-
-# a = primeiro(funcao)
-
-# a()
-
-# @primeiro
-# def funcao():
-#     print('Olá pessoal')
-
-# funcao()
 
 
 
